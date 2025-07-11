@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tech Summit 2025</string>
+    <string name="home_title">Przyszłość Technologii w Zasięgu Ręki</string>
+    <string name="home_date">20 Listopada 2024</string>
+    <string name="home_place">Centrum Konferencyjne Innowacja, Warszawa</string>
+    <string name="home_desc">Zapraszamy na jednodniową konferencję poświęconą najnowszym trendom w technologii. Spotkaj się z ekspertami, weź udział w warsztatach i poznaj przyszłość branży IT!</string>
+    <string name="home_agenda">Agenda</string>
+    <string name="home_speaker">Prowadzący: %s</string>
+
+    <string-array name="agenda">
+        <item>09:00 – 09:30|Rejestracja i powitalna kawa</item>
+        <item>09:30 – 10:30|Keynote: Przyszłość Sztucznej Inteligencji|Dr. Anna Nowak</item>
+        <item>10:30 – 11:30|Panel dyskusyjny: Cyberbezpieczeństwo w Erze IoT|Eksperci z branży</item>
+        <item>11:30 – 12:30|Warsztat: Programowanie w Kotlin|Jan Kowalski</item>
+        <item>12:30 – 13:30|Przerwa obiadowa</item>
+        <item>13:30 – 14:30|Prezentacja: Nowości w Cloud Computing|Maria Wiśniewska</item>
+        <item>14:30 – 15:30|Warsztat: Tworzenie aplikacji mobilnych w Compose |Zespół Developerów</item>
+        <item>15:30 – 16:00|Zakończenie i networking</item>
+    </string-array>
+</resources>
